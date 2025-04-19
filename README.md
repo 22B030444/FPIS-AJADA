@@ -14,7 +14,6 @@ A web‑based application to streamline student housing operations: from room bo
 | Taubaev Azamat           | 22B030450   |
 | Tokanova Ayazhan         | 22B030452   |
 
-> _*Replace the Student ID column with your actual IDs if needed._
 
 ---
 
