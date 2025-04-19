@@ -29,7 +29,7 @@ The **Dorm Management System** helps dormitory administrators, managers and stud
 - **Publish campus news** with images and announcements
 - **Register for physical education classes** and manage make‑up sessions
 
-Designed with Laravel (Blade), Tailwind CSS & Bootstrap, it’s responsive and easily deployable.
+
 
 ---
 
@@ -51,7 +51,7 @@ Designed with Laravel (Blade), Tailwind CSS & Bootstrap, it’s responsive and e
 
 - **Backend**: PHP 8+, [Laravel 10](https://laravel.com/)
 - **Templating**: Blade, Tailwind CSS, Bootstrap 5
-- **Database**: MySQL (or SQLite for local dev)
+- **Database**: SqlLite (or PostgreSQL)
 - **Storage**: Laravel Filesystem (local / public)
 - **Authentication**: Laravel Sanctum / built‑in Auth
 - **Notifications**: Mail (SMTP), in‑app toasts
